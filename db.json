@@ -1,0 +1,297 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "title": "Pişi",
+      "price": 330.00,
+      "category": "breakfast",
+      "img": "https://www.diyetkolik.com/site_media/media/foodrecipe_images/nefis-pisi-tarifi-740x740.jpg",
+      "desc": "Efsane kahvaltıların yıldızı! Altın sarısı kızarmış hamurun yanında istediğiniz tatlı veya tuzlu eşlikçilerle keyfinize göre."
+    },
+    {
+      "id": 2,
+      "title": "Menemen",
+      "price": 270.00,
+      "category": "breakfast",
+      "img": "https://i.lezzet.com.tr/images-xxlarge-recipe/menemen-4b718aac-cb07-488f-8346-3a504bfb67ef.jpg",
+      "desc": "Taze domates ve çıtır biberin muhteşem uyumunu, damak zevkinize göre peynirli, sucuklu, kavurmalı ve daha birçok çeşit ile zenginleştiriyoruz."
+    },
+    {
+      "id": 3,
+      "title": "Tereyağlı kuymak",
+      "price": 250.00,
+      "category": "breakfast",
+      "img": " https://im.haberturk.com/2019/09/24/2525055_eb74132891ee97d75dc186ff5786abfb.jpg",
+      "desc": " Enfes tereyağının sıcak ekmekle buluştuğu bu klasik tat, kahvaltı sofralarınıza lezzet katacak. Yumuşacık ve altın sarısı dışıyla, kahvaltınızın vazgeçilmezi olmaya aday."
+    },
+    {
+      "id": 4,
+      "title": "Pankek",
+      "price": 450.00,
+      "category": "breakfast",
+      "img": "https://eatcleanturkey.com/wp-content/uploads/2023/10/Sporcu-Pankek-Tarifi-875x1024.jpg",
+      "desc": "İncecik ve yumuşacık pankekler..Ev yapımı reçel, taze peynir, bol çikolata veya meyvelerle zenginleştirerek, her lokmasında mutluluk verecek. Kahvaltının en tatlı hali, güne neşeyle başlamak için ideal!"
+    },
+    {
+      "id": 5,
+      "title": "Sucuklu Yumurta",
+      "price": 450.00,
+      "category": "breakfast",
+      "img": "https://www.diyetkolik.com/site_media/media/foodrecipe_images/shutterstock_22427677.jpg",
+      "desc": "Taze yumurtalar ve nefis sucukların buluşmasıyla damağınızda eşsiz bir tat bırakacak.Yanında sıcak ekmekle, kahvaltınıza lezzet katın!"
+    },
+    {
+      "id": 6,
+      "title": "Fransız Tost Sandviçi",
+      "price": 300.00,
+      "category": "breakfast",
+      "img": "https://www.gurmerehberi.com/wp-content/uploads/2024/10/Croque_Monsieur.jpg",
+      "desc": "Altın sarısı, çıtır dışı ve yumuşacık içiyle Fransız tost sandviçi.Peynir, domates, jambon ve taze otlarla zenginleştirilmiş bu nefis sandviç, hem gözlere hem de damağa hitap ediyor!"
+    },
+    {
+      "id": 7,
+      "title": "Bowl",
+      "price": 400.00,
+      "category": "breakfast",
+      "img": "https://www.all.com.tr/wp-content/uploads/2022/08/bowl1.jpg",
+      "desc": " Sağlıklı ve doyurucu bir başlangıç için bowl, mükemmel bir seçenek! Taze meyveler, granola, yoğurt ve balın buluştuğu bu renkli kâse, her lokmasında enerji veriyor."
+    },
+    {
+      "id": 8,
+      "title": "İngiliz Kahvaltısı ",
+      "price": 550.00,
+      "category": "breakfast",
+      "img": "https://gezentianne.com/wp-content/uploads/2021/04/klasik_ingiliz_kahvaltisi.jpg",
+      "desc": "Kızarmış ekmek, sosis, domates, mantar, fasulye, yumurta ve çıtır bacon ile dolu bu zengin tabak, kahvaltınızı şölene dönüştürecek!"
+    },
+    {
+      "id": 9,
+      "title": "Kruvasanlar-CROISSANTS",
+      "price": 500.00,
+      "category": "breakfast",
+      "img": "https://wp.oggusto.com/wp-content/uploads/2024/04/IMG_7612.jpeg",
+      "desc": "Yumuşacık içi,çıtır dışı ve mis gibi tereyağ kokusuyla kruvasan,kahvaltınızda zarif bir dokunuş yaratıyor.Çikolatalı, peynirli veya sade seçenekleriyle,her lokmada Fransız mutfağının inceliğini hissedin!"
+    },
+    {
+      "id": 10,
+      "title": "Vegan Kahvaltı",
+      "price": 500.00,
+      "category": "breakfast",
+      "img": "https://blog.korayspor.com/wp-content/uploads/2023/07/Vegan-Kahvalti-Onerileri...jpg",
+      "desc": "Renkli sebzeler,besleyici baklagiller ve doğal tahılların mükemmel uyumuyla hazırlanan bu tabak hem lezzetli hem de doyurucu.Her lokma da,sağlık."
+    },
+    {
+      "id": 11,
+      "title": "Şarküteri Tabağı",
+      "price": 700.00,
+      "category": "breakfast",
+      "img": " https://www.flory.com.tr/wp-content/uploads/2022/02/Sarkuteri-Tabagi-4.jpg",
+      "desc": "Özenle seçilmiş peynirler, nefis sucuklar, zeytinler ve ev yapımı soslarla zenginleştirilen bu tabak, hem görsel hem de tatlı bir ziyafet sunuyor,şarküteri tabağımızla her anınızı özel kılın.!"
+    },
+    {
+      "id": 12,
+      "title": "Serpme Kahvaltı",
+      "price": 2500.00,
+      "category": "breakfast",
+      "img": "https://i.lezzet.com.tr/images-xxlarge-secondary/eskisehir-kahvalti-mekanlari-en-iyi-9-mekan-6d2ae370-6895-4b4d-85d5-92f7da5470c1.jpg",
+      "desc": "Taze peynirler, zeytinler,ev yapımı reçeller,çıtır ekmekler,nefis menemen ve sigara böreği gibi lezzetler,kahvaltınıza eşlik ediyor."
+    },
+    {
+      "id": 13,
+      "title": "Noodle Sepetinde Et",
+      "category": "lunch",
+      "price": 500.00,
+      "img": "https://www.gurmerehberi.com/wp-content/uploads/sb-instagram-feed-images/471734182_18479684266028499_8054732013679486386_nfull.webp",
+      "desc": "Karabiberin eşsiz aromasıyla marine edilmiş yumuşacık etler, incecik noodle'larla harmanlanarak estetik bir sunumla servis ediliyor."
+    },
+    {
+      "id": 14,
+      "title": " Pad Thai ",
+      "category": "lunch",
+      "price": 550.00,
+      "img": "https://www.gurmerehberi.com/wp-content/uploads/sb-instagram-feed-images/470936577_18480242809028499_3868282974616973865_nfull.webp",
+      "desc": "Pad Thai, ince pirinç noodle'ların yer fıstığı, taze lime ve özel soslarla buluştuğu, Tayland mutfağının dengeli ve unutulmaz bir lezzet "
+    },
+    {
+      "id": 15,
+      "title": "Humus",
+      "category": "lunch",
+      "price": 400.00,
+      "img": "https://www.gurmerehberi.com/wp-content/uploads/2020/09/humus.jpg.webp",
+      "desc": "Nohut, tahin ve zeytinyağının nefis uyumu. Hafif ve lezzet dolu bir başlangıç."
+    },
+    {
+      "id": 16,
+      "title": "Sichuan Stir-fry",
+      "category": "lunch",
+      "price": 680.0,
+      "img": "https://www.gurmerehberi.com/wp-content/uploads/2025/01/Sichuan-Stir-fry.jpg",
+      "desc": " Acının ve baharatların dans ettiği, sebzelerle zenginleşen Çin mutfağı klasiği. Doyurucu, aromatik ve enerji dolu bir lezzet."
+    },
+    {
+      "id": 17,
+      "title": "Balık Tabağı",
+      "category": "lunch",
+      "price": 750.00,
+      "img": "https://www.gurmerehberi.com/wp-content/uploads/2025/01/butun-balik-yu.jpg",
+      "desc": "Taze deniz ürünleriyle zenginleştirilmiş bu balık tabağı, deniz lezzetlerini en saf haliyle sunar. Her lokmada taze ve hafif bir dokunuşla deniz tatlarını keşfedin."
+    },
+    {
+      "id": 18,
+      "title": "Burrata Kinoa Salatası",
+      "category": "lunch",
+      "price": 450.00,
+      "img": "https://www.gurmerehberi.com/wp-content/uploads/2024/12/Burrata-ve-Kinoa-Salatasi.jpg",
+      "desc": "Burrata peyniriyle hazırlanan bu kınoa salatası, taze portakal dilimleri ve canlı renkleriyle lezzetli bir zenginlik sunar. Hafif, ferah ve doyurucu bir tat deneyimi sağlar."
+    },
+    {
+      "id": 19,
+      "title": "Kestaneli Brüksel Lahanası",
+      "category": "lunch",
+      "price": 450.00,
+      "img": "https://www.gurmerehberi.com/wp-content/uploads/2024/12/kestaneli-bruksel-lahanasi.jpg",
+      "desc": "Kestaneli Brüksel lahanası, kavrulmuş kestanelerin zengin aromasıyla birleşerek benzersiz bir lezzet sunar. Hem sağlıklı hem de doyurucu bir tercih."
+    },
+    {
+      "id": 20,
+      "title": "Insalata di Mare",
+      "category": "lunch",
+      "price": 650.00,
+      "img": "https://www.gurmerehberi.com/wp-content/uploads/2024/09/Insalata-di-Mare.jpg",
+      "desc": "Deniz ürünlerinin limon, zeytinyağı, sarımsak ve taze otlar ile birleşerek oluşturduğu muhteşem bir lezzettir"
+    },
+    {
+      "id": 21,
+      "title": "Crodino Kokteyli",
+      "category": "shakes",
+      "price": 700.0,
+      "img": "https://www.gurmerehberi.com/wp-content/uploads/2024/09/Crodino.jpg",
+      "desc": "Crodino kokteyli, ferahlatıcı ve hafif acımsı tadıyla damağınızda iz bırakır. Alkol içermeyen bu içki, keyifli anlar için mükemmel bir alternatiftir."
+    },
+    {
+      "id": 22,
+      "title": "Kir Royal",
+      "category": "shakes",
+      "price": 750.00,
+      "img": "https://www.gurmerehberi.com/wp-content/uploads/2024/11/kir-royal.jpg",
+      "desc": "Kir Royal, şampanya ve siyah frenk üzümü likörünün zarif birleşimiyle sofistike bir kokteyldir. Büyüleyici rengi ve hafif tatlılığıyla özel anlar için ideal bir içki sunar."
+    },
+    {
+      "id": 23,
+      "title": "Singapore Sling",
+      "category": "shakes",
+      "price": 800.0,
+      "img": "https://www.gurmerehberi.com/wp-content/uploads/2020/03/singapore-sling.jpg",
+      "desc": "Singapore Sling, cin, kiraz likörü ve ananas suyu ile hazırlanan tropikal bir kokteyldir. Canlandırıcı ve meyvemsi tadı, her yudumda egzotik bir deneyim sunar."
+    },
+    {
+      "id": 24,
+      "title": " bitki Çayları",
+      "category": "shakes",
+      "price": 450.00,
+      "img": "https://www.gurmerehberi.com/wp-content/uploads/2015/11/dogal-bitki-caylari.jpeg",
+      "desc": "Bitki çayları, doğanın taze ve rahatlatıcı aromalarını sunar. Farklı bitkilerin faydalı özleriyle hazırlanan bu çaylar, hem sağlıklı hem de ferahlatıcı bir içecek seçeneğidir."
+    },
+    {
+      "id": 25,
+      "title": "Antep fıstığı",
+      "category": "shakes",
+      "price": 450.0,
+      "img": "https://www.gurmerehberi.com/wp-content/uploads/2020/07/antep-fistigi.jpg",
+      "desc": "Antep fıstığı, kırılgan kabuğunun içinde yoğun ve lezzetli bir iç çekirdeği barındırır. Hem tatlılarda hem de atıştırmalıklarda kullanılan bu fıstık, zengin ve hoş bir aromaya sahiptir."
+    },
+
+    {
+      "id": 26,
+      "title": "Rum",
+      "category": "shakes",
+      "price": 750.00,
+      "img": "https://www.gurmerehberi.com/wp-content/uploads/2024/01/Sicak-tereyagli-rom.jpg",
+      "desc": "Sıcak tereyağlı rum,tereyağı ve baharatlı rum aromalarının birleşimiyle kış aylarında sıcacık bir içecek alternatifi sunar.Soğuk günlerin vazgeçilmezi olur."
+    },
+    {
+      "id": 27,
+      "title": "American Cocktails",
+      "category": "shakes",
+      "price": 800.0,
+      "img": "https://www.gurmerehberi.com/wp-content/uploads/2024/09/Americano_cocktail.jpg",
+      "desc": "Americano kokteyli, cin, kırmızı vermut ve birkaç damla angostura bitters içerir. Hafif acı ve zengin aromasıyla şık ve klasik bir içki olarak sunulur."
+    },
+    {
+      "id": 28,
+      "title": "Vişne sorbe",
+      "category": "Kids",
+      "price": 250.00,
+      "img": "https://www.gurmerehberi.com/wp-content/uploads/2024/04/Visne-Sorbe-1024x1024.jpeg.webp",
+      "desc": "Vişne sorbe, asidik vişnelerin serinletici etkisiyle hafif ve ferahlatıcı bir tat sunar. Yazın vazgeçilmezi olan bu tatlı, doğal şekerle mükemmel bir denge yakalar."
+    },
+    {
+      "id": 29,
+      "title": "Oreolu Milkshake",
+      "category": "Kids",
+      "price": 350.00,
+      "img": "https://www.gurmerehberi.com/wp-content/uploads/2022/06/A-delicious-and-creamy-Oreo-milkshake-in-a-tall-glass-topped-with-whipped-cream-and-chocolate-syrup-drizzle-with-crushed-Oreo-pieces-sprinkled-on-to.png",
+      "desc": "Vanilya dondurması ve ezilmiş Oreo bisküvilerinin mükemmel birleşimiyle yoğun ve tatmin edici bir lezzet sunar.Hem çikolata severlere hitap eder."
+    },
+    {
+      "id": 30,
+      "title": "Ahududu-Çilek Smoothie",
+      "category": "Kids",
+      "price": 250.00,
+      "img": "https://www.gurmerehberi.com/wp-content/uploads/2024/05/ahududu-cilekli-smoothie-1024x1024.jpeg.webp",
+      "desc": "Ahududu ve çileğin taze birleşimiyle hazırlanan bu smoothie, ferahlatıcı ve vitamin dolu bir içecek alternatifi sunar."
+    },
+    {
+      "id": 31,
+      "title": "Erik Şerbeti",
+      "category": "Kids",
+      "price": 250.00,
+      "img": "https://www.gurmerehberi.com/wp-content/uploads/2020/10/A-refreshing-glass-of-green-plum-Erik-sherbet-a-traditional-Turkish-drink.-The-sherbet-has-a-light-green-color-served-cold-in-a-tall-glass-with-a.png",
+      "desc": "Erik şerbeti, ekşi ve tatlı dengenin mükemmel uyumuyla serinletici bir içecek sunar. Taze eriklerin doğal aromasıyla yaz aylarının vazgeçilmezi olur."
+    },
+    {
+      "id": 32,
+      "title": "Peynirli sufle ",
+      "category": "Kids",
+      "price": 400.00,
+      "img": "https://www.gurmerehberi.com/wp-content/uploads/2021/01/baked-cheese-souffle-a-masterpiece-of-French-cuisine.-The-image-should-display-a-puffed-golden-brown-souffle-r.png",
+      "desc": "Peynirli sufle, hafif ve kabarık dokusuyla ağzınızda eriyen lezzetler sunar. Kremamsı peynir dolgusu, zengin ve doyurucu bir tat deneyimi yaratır."
+    },
+    {
+      "id": 33,
+      "title": "Muffin",
+      "category": "Kids",
+      "price": 300.0,
+      "img": "https://www.gurmerehberi.com/wp-content/uploads/2021/07/muffin-tarihi.jpg",
+      "desc": "Muffin, yumuşacık dokusu ve zengin iç harcıyla her ısırıkta keyif verir. Farklı malzemelerle zenginleştirilen bu tatlı, kahvaltılara ya da atıştırmalıklara harika bir eşlikçidi"
+    },
+    {
+      "id": 34,
+      "title": "Tiramisu",
+      "category": "Kids",
+      "price": 600.00,
+      "img": "https://www.gurmerehberi.com/wp-content/uploads/2024/12/kestaneli-tiramisu.jpg.webp",
+      "desc": "Kahve ve kakao aromalarının birleşimiyle kremamsı dokusuyla tatlıseverleri mest eder.Her lokmada zengin ve lezzetli bir deneyim sunar."
+    },
+    {
+      "id": 35,
+      "title": "Sıcak Kek",
+      "category": "Kids",
+      "price": 500.00,
+      "img": "https://www.gurmerehberi.com/wp-content/uploads/2021/12/sicak-cikolatali-kek.png",
+      "desc": "Sıcak kek, fırından çıkar çıkmaz yumuşak ve mis gibi kokan içeriğiyle damakları şımartır. Taze pişmiş kek, tatlı krizlerini anında çözer ve her lokmada mutluluk verir."
+    },
+    {
+      "id": 36,
+      "title": "Şeftalili Cheesecake",
+      "category": "Kids",
+      "price": 500.00,
+      "img": "https://www.gurmerehberi.com/wp-content/uploads/2021/12/peach-cheesecake-with-a-base-of-crushed-bran-biscuits-melted-butter-and-ground-almonds-filled-with-a-mixture-of-eggs-sugar-labneh-cheese-crea.png ",
+      "desc": "Kremamsı dokusu ve hafif tatlılığıyla her lokmada ferahlatıcı bir lezzet sunar. Şeftali ve cheesecake'in mükemmel uyumu, tatlı keyfinize taze bir dokunuş katacak."
+    }
+     
+  ]
+}
+
+
+
